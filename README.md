@@ -1,5 +1,5 @@
 # PreProcessing-Text-EgyptAir
-A Desktop program for EgyptAir company, the purpose of this program is to extract data from a huge text messages that include the details of fly trips.
+A Desktop program for EgyptAir company, the purpose of this program is to extract data from a huge text messages that includes the details of fly trips.
 
   
 ## Purpose of this program:
