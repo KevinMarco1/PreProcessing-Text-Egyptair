@@ -1,12 +1,12 @@
-# PreProcessing-Text-Egyptair
-This is a Desktop program for Egyptair company ,the purpose of this program to extract data from a huge text message.
+# PreProcessing-Text-EgyptAir
+A Desktop program for EgyptAir company, the purpose of this program to extract data from a huge text messages that include the details of fly trips.
 
   
 ## Purpose of this program:
-  Convert the process that takes long time of reading text message to extract the diserd data and fill the sheet excel of these data into each cell to do it  automatically using a software-desktop-application.
+Convert the process that takes long time of reading text messages to an automated process of extracting the diserd data and filling an excel sheet with this data.
 
-## Technology used :
-  I used python to make this program specifically framework called tkinter to build GUI of a desktop application , build-in and standard libraries for processing the     data to put into sheet excel.
+## Technologies used:
+I used python with the tkinter framework to build the GUI of the desktop application, other built-in functions and standard libraries for processing the data and writing it to an excel sheet.
 
 ## Convert python code to a program(Extension .exe):
   - Install PyInstaller using pip: Open a command prompt or terminal window and type "pip install pyinstaller".
