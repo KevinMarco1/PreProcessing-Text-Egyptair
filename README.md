@@ -8,4 +8,13 @@ This is a Desktop program for Egyptair company ,the purpose of this program to e
 ## Technology used :
   I used python to make this program specifically framework called tkinter to build GUI of a desktop application , build-in and standard libraries for processing the     data to put into sheet excel.
 
-  
+## Convert python code to program(Extension .exe):
+  - Install PyInstaller using pip: Open a command prompt or terminal window and type "pip install pyinstaller".
+
+  - Create a Python script: Write your Python code in a Python script file with a ".py" extension.
+
+  - Open a command prompt or terminal window: Navigate to the directory where your Python script is located.
+
+  - Use PyInstaller to create the executable: Type "pyinstaller scriptname.py" in the command prompt or terminal window, where "scriptname.py" is the name of your Python   script.
+
+  - Locate the executable file: PyInstaller will create a "dist" folder in the same directory as your Python script. Inside the "dist" folder, you will find the    executable file.
