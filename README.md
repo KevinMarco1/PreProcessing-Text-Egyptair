@@ -23,4 +23,4 @@ This is a Desktop program for Egyptair company ,the purpose of this program to e
   - Locate the executable file: PyInstaller will create a "dist" folder in the same directory as your Python script. Inside the "dist" folder, you will find the    executable file.
 
 
-Note : to run this program the text must be in the required format of Egyptair
+Note : to run and test this program the text must be in the required format of Egyptair
