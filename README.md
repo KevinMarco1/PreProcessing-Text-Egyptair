@@ -10,7 +10,9 @@ This is a Desktop program for Egyptair company ,the purpose of this program to e
 
 ## Convert python code to program(Extension .exe):
   - Install PyInstaller using pip: Open a command prompt or terminal window and type "pip install pyinstaller".
-    -  ``` pip install pyinstaller ``` 
+    -  ``` 
+      pip install pyinstaller 
+      ``` 
 
   - Open a command prompt or terminal window: Navigate to the directory where your Python script is located.
 
