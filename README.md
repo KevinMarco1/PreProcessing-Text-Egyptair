@@ -10,11 +10,11 @@ This is a Desktop program for Egyptair company ,the purpose of this program to e
 
 ## Convert python code to program(Extension .exe):
   - Install PyInstaller using pip: Open a command prompt or terminal window and type "pip install pyinstaller".
-
-  - Create a Python script: Write your Python code in a Python script file with a ".py" extension.
+    -  ``` pip install pyinstaller ``` 
 
   - Open a command prompt or terminal window: Navigate to the directory where your Python script is located.
 
-  - Use PyInstaller to create the executable: Type "pyinstaller scriptname.py" in the command prompt or terminal window, where "scriptname.py" is the name of your Python   script.
+  - Use PyInstaller to create the executable: Type "pyinstaller scriptname.py"  in the command prompt or terminal window, where "test_tkinter.py" (in this case) is the name of your Python script.
+    -   ``` pyinstaller test_tkinter.py ``` 
 
   - Locate the executable file: PyInstaller will create a "dist" folder in the same directory as your Python script. Inside the "dist" folder, you will find the    executable file.
