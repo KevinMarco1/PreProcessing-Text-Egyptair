@@ -1,5 +1,6 @@
 # Formating-Text-Egyptair
 This is a Desktop program for Egyptair company ,the purpose of this program to extract data from a huge text message.
+Note : to run this program the text must be in the required format of Egyptair
 
   
 ## Purpose of this program:
